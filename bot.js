@@ -19,6 +19,6 @@ client.on("message", message => {
 	console.log("Ready To Go");
 });
 
-client.login("NTMwMzY5NjQ0MDMzMjEyNDE2.Dw-aMQ.D_S19i5VDrZnAD7lJeopT5ClcfI");
+client.login("NTMwNzY5NTU0MTA5MTA0MTI5.DxEjpg.ubytBF1bJI0KymuWqrBGdnoTffA");
 			
 
